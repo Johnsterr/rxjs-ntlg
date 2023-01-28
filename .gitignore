@@ -1,0 +1,8 @@
+.idea
+.vscode
+**/node_modules
+
+# Служебные файлы
+**/.env
+
+**/dist
